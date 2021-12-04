@@ -1,0 +1,4 @@
+printf("ahmad fares");
+k=88;
+r=88;
+a=77;
